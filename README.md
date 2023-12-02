@@ -1,3 +1,3 @@
 # AdventOfCode-2k23
  
-#advent of code 2023 solutions
+soluzioni advent of code 2023 in python
